@@ -2,13 +2,13 @@
 ### 💻 "Web Developer | 🎨 UI Enthusiast | 🚀 Lifelong Learner"
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Marcos-Vinicius-Borges/Marcos-Vinicius-Borges/main/assets/banner-github.gif" alt="Banner" width="1000">
+ <img src="https://github.com/user-attachments/assets/e745dc2c-6139-4068-a9df-573e4b56ce8a" alt="My Banner" width="1000">
 </p>
 
 
 
 
----
+
 
 ## 🧠 About Me
 

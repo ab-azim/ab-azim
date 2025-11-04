@@ -1,5 +1,5 @@
 # 👋 Hi there, I'm **Abdul Azim**
-### 💻 "Web Developer | 🎨 UI Enthusiast | 🚀 Lifelong Learner"
+### 💻 "Frontend | 🎨 UI Enthusiast | 🚀 Lifelong Learner"
 
 <p align="center">
  <img src="https://github.com/user-attachments/assets/79bfac42-3540-4cf5-b809-8e28f43621ac" alt="My Banner" width="1000">

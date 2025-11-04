@@ -138,18 +138,16 @@ I'm a passionate **Frontend Developer** who loves turning creative ideas into fu
 
 
 
-## 📈 Activity Graph
+
 
 ## 📈 Activity Graph
 
 <div align="center">
   <!-- Change username=ab-azim if needed -->
-  <a href="https://github.com/ab-azim" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=ab-azim&theme=radical" 
-         alt="Contribution graph for ab-azim" 
-         aria-label="Contribution activity graph for ab-azim" 
-         style="max-width:100%;height:auto;"/>
-  </a>
+<a href="https://github.com/ab-azim" target="_blank" rel="noopener noreferrer">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ab-azim&theme=react-dark" 
+       alt="Contribution graph for ab-azim" style="max-width:100%;height:auto;">
+</a>
   <p><strong>Contribution activity:</strong> Visual summary of my recent coding — commits, PRs and other contributions over time. (Auto-updated)</p>
 </div>
 

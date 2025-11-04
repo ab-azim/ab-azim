@@ -122,10 +122,9 @@ I'm a passionate **Web Developer** who loves turning creative ideas into fully f
 </div>
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=ab-azim&theme=radical" alt="GitHub Streak" />
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ab-azim&theme=radical" alt="Streak Stats"/>
 </div>
+
 
 
 ---

@@ -117,12 +117,16 @@ I'm a passionate **Web Developer** who loves turning creative ideas into fully f
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ab-azim&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Azim's GitHub stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ab-azim&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ab-azim&layout=compact&theme=radical" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ab-azim&theme=radical" alt="Streak Stats"/>
+  <img src="https://streak-stats.demolab.com?user=ab-azim&theme=radical" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ab-azim&theme=react-dark" alt="Contribution Graph"/>
 </div>
 
 ---

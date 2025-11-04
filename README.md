@@ -1,5 +1,3 @@
-
-
 # 👋 Hi there, I'm **Abdul Azim**
 ### 💻 "Web Developer | 🎨 UI Enthusiast | 🚀 Lifelong Learner"
 
@@ -12,7 +10,7 @@
 ## 🧠 About Me
 
 <div align="justify">
-I'm a passionate **Frontend Developer** who loves turning creative ideas into fully functional and responsive websites. With a keen eye for design and a commitment to clean, efficient code, I strive to create exceptional user experiences. Always learning new technologies and improving my development workflow.
+I'm a passionate **Web Developer** who loves turning creative ideas into fully functional and responsive websites. With a keen eye for design and a commitment to clean, efficient code, I strive to create exceptional user experiences. Currently expanding my skills from frontend to backend development to become a full-stack developer. Always learning new technologies and improving my development workflow.
 </div>
 
 ---
@@ -26,6 +24,7 @@ I'm a passionate **Frontend Developer** who loves turning creative ideas into fu
         <li>🔍 Exploring <strong>Next.js</strong> and <strong>Redux Toolkit</strong></li>
         <li>🏗️ Building a personal portfolio website</li>
         <li>⚡ Learning to optimize frontend performance</li>
+        <li>🌱 Diving into <strong>Node.js</strong> and <strong>Express.js</strong></li>
       </ul>
     </td>
     <td width="50%" valign="top">
@@ -33,6 +32,7 @@ I'm a passionate **Frontend Developer** who loves turning creative ideas into fu
         <li>📚 Reading documentation on modern CSS techniques</li>
         <li>🎨 Improving UI/UX design skills</li>
         <li>🔧 Contributing to open-source projects</li>
+        <li>🗄️ Learning <strong>MongoDB</strong> and database design</li>
       </ul>
     </td>
   </tr>
@@ -64,6 +64,20 @@ I'm a passionate **Frontend Developer** who loves turning creative ideas into fu
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js">
   <img src="https://img.shields.io/badge/Redux_Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit">
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js">
+</div>
+
+### 🗄️ Backend Technologies
+<div>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose">
+  <img src="https://img.shields.io/badge/MongoDB_Compass-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Compass">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios">
+  <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=rest&logoColor=white" alt="REST API">
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON">
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT">
 </div>
 
 ### 🛠️ Tools & Others
